@@ -19,6 +19,7 @@ int main(){
         }
      }
     }
-  for(int p=0;p<6;p++)
-    cout<<arr[p];
-    }
+  for(int p=0;p<6;p++){
+    cout<<arr[p]<<" ";
+  }
+}
